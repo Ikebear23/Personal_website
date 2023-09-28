@@ -1,0 +1,9 @@
+#home,
+#about,
+#portfolio {
+  background-image: url(https://images.ctfassets.net/hrltx12pl8hq/5thrWp3Se4mcffFgMORIds/9013edc6afcdfe220a7334eb49d81b9d/snow-images.jpg?fit=fill&w=1200&h=630);
+}
+.inl {
+  display: inline;
+  margin-left: 5%;
+}
